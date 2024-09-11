@@ -18,7 +18,7 @@ import org.junit.runner.RunWith;
 public class CukesRunner {}
 
 
-/**
+/*
  * to run Jenkins, I need the following:
  * Maven
  * Java
